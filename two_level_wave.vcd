@@ -1,0 +1,90 @@
+$date
+	Mon Mar 02 23:05:11 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module two_level_tb $end
+$var wire 1 ! t2 $end
+$var wire 1 " t1 $end
+$var wire 1 # f $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$var reg 1 & c $end
+$var reg 1 ' d $end
+$scope module uut $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 & c $end
+$var wire 1 ' d $end
+$var wire 1 # f $end
+$var wire 1 " t1 $end
+$var wire 1 ! t2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0'
+0&
+0%
+0$
+1#
+0"
+1!
+$end
+#50
+0!
+1'
+#100
+0'
+1&
+#150
+1'
+#200
+1!
+0'
+0&
+1%
+#250
+0!
+1'
+#300
+0'
+1&
+#350
+1'
+#400
+1!
+0'
+0&
+0%
+1$
+#450
+0!
+1'
+#500
+0'
+1&
+#550
+1'
+#600
+0#
+1!
+1"
+0'
+0&
+1%
+#650
+1#
+0!
+1'
+#700
+0'
+1&
+#750
+1'
+#800
