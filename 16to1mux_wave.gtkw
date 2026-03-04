@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Mar 04 14:33:30 2026
+[*]
+[dumpfile] "C:\verilog\mux_16to1\mux16to1.vcd"
+[dumpfile_mtime] "Wed Mar 04 14:31:52 2026"
+[dumpfile_size] 546
+[savefile] "C:\verilog\mux_16to1\16to1mux_wave.gtkw"
+[timestart] 2
+[size] 1000 600
+[pos] -1 -1
+*-2.949833 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@22
+muxtest.A[15:0]
+muxtest.S[3:0]
+@29
+muxtest.f
+[pattern_trace] 1
+[pattern_trace] 0
